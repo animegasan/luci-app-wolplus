@@ -1,9 +1,10 @@
+# luci-app-wolplusï¼ˆç½‘ç»œå”¤é†’++ï¼‰
 
-# luci-app-wolplus£¨ÍøÂç»½ĞÑ++£©
+<br>ä¸­æ–‡ | [English](README_en.md)
 
-Ò»¿î¸ü·½±ãµÄ»½ĞÑÍøÂçÉè±¸µÄ²å¼ş
+ä¸€æ¬¾æ›´æ–¹ä¾¿çš„å”¤é†’ç½‘ç»œè®¾å¤‡çš„æ’ä»¶
 
-### Ğ§¹ûÕ¹Ê¾
+### æ•ˆæœå±•ç¤º
 ![wolplus][1]
 
   [1]: https://raw.githubusercontent.com/sundaqiang/openwrt-packages/master/img/wolplus.png
