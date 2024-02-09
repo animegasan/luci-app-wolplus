@@ -4,4 +4,4 @@
 
 ## More convenient plug-in for waking network devices
 
-<img alt="Preview" src="https://raw.githubusercontent.com/animegasan/mikwrt/main/preview/luci-app-wolplus.png"/>
+<a target="_blank" href="https://github.com/animegasan/luci-app-wolplus/releases"><img src="https://img.shields.io/github/downloads/animegasan/luci-app-wolplus/total?label=Total%20Download&labelColor=blue&style=for-the-badge"></a>
